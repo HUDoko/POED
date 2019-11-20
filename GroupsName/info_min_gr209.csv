@@ -1,0 +1,2 @@
+﻿;min_salarys;minCountDays;maxCountDays;avgCountDays;experience;employment;schedule;skills
+0;{100000.0: 1};0.0;27.0;1.504;1    1;Полная занятость    1;Полный день    1;{'C#': 1, ' .NET Framework': 1, ' WPF': 1, ' XAML': 1, ' LINQ': 1, ' Entity Framework': 1, ' ООП': 1, ' MS SQL': 1, ' Transact-SQL': 1, ' SQL': 1}

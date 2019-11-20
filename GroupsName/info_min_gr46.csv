@@ -1,0 +1,2 @@
+﻿;min_salarys;minCountDays;maxCountDays;avgCountDays;experience;employment;schedule;skills
+0;{80000.0: 1, 70000.0: 1};0.0;27.0;1.504;"3    1;0    1";Полная занятость    2;Гибкий график    2;{'C#': 2, ' NET Core': 1, ' REST': 1, ' Git': 1, ' PostgreSQL': 1}

@@ -1,0 +1,2 @@
+﻿;min_salarys;minCountDays;maxCountDays;avgCountDays;experience;employment;schedule;skills
+0;{140000.0: 1, nan: 1};0.0;27.0;1.504;"3    1;1    1";Полная занятость    2;Полный день    2;{'Sass': 1, ' Less': 1, ' postcss': 1, ' Gulp': 1, ' webpack': 1, ' react js': 1, ' vue js': 1, ' AngularJS': 1, ' CentOS': 1, ' Nginx': 1, ' PostgreSQL': 1}

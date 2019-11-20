@@ -1,0 +1,2 @@
+﻿;max_salarys;minCountDays;maxCountDays;avgCountDays;experience;employment;schedule;skills
+0;{100000.0: 1};0.0;27.0;1.504;0    1;Полная занятость    1;Полный день    1;{'Git': 1, ' SQLite': 1, ' Java': 1, ' Kotlin': 1, ' Realm': 1, ' RxJava 2': 1, ' Retrofit': 1, ' FireBase': 1, ' Dagger 2': 1, ' REST API': 1, ' MVP': 1, ' MVVM': 1, ' Clean Architecture': 1}

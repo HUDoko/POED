@@ -1,0 +1,2 @@
+﻿;max_salarys;minCountDays;maxCountDays;avgCountDays;experience;employment;schedule;skills
+0;{80000.0: 1, nan: 1};0.0;27.0;1.504;"3    1;1    1";Полная занятость    2;Полный день    2;{'Linux': 1, ' TCP/IP': 1, ' C++': 2, ' C/C++': 1, 'PostgreSQL': 1, ' Delphi': 1, ' SQL': 1, ' C#': 1, ' MS SQL': 1}

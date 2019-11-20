@@ -1,0 +1,2 @@
+﻿;max_salarys;minCountDays;maxCountDays;avgCountDays;experience;employment;schedule;skills
+0;{150000.0: 1};0.0;27.0;1.504;1    1;Полная занятость    1;Гибкий график    1;{'Git': 1, ' iOS': 1, ' AppStore': 1, ' UI/Unit': 1, ' Swift': 1, ' Realm': 1, ' SQLite': 1, ' Auto Layout': 1, ' CocoaPods': 1, ' Core data': 1, ' UIKit': 1}

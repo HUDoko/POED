@@ -1,0 +1,2 @@
+﻿;max_salarys;minCountDays;maxCountDays;avgCountDays;experience;employment;schedule;skills
+0;{200000.0: 1};0.0;27.0;1.504;3    1;Полная занятость    1;Гибкий график    1;{'Python': 1, ' docker': 1, ' SOA': 1, ' tornado': 1, ' C++': 1, ' Asyncio': 1, ' MongoDB': 1, ' ASIO': 1}

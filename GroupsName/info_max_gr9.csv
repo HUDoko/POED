@@ -1,0 +1,2 @@
+﻿;max_salarys;minCountDays;maxCountDays;avgCountDays;experience;employment;schedule;skills
+0;{250000.0: 1};0.0;27.0;1.504;6    1;Полная занятость    1;Удаленная работа    1;{'C#': 1, ' CSS': 1, ' HTML': 1, ' SPA frameworks': 1, ' .NET Framework': 1, ' SQL': 1, ' MS SQL': 1, ' Webapi': 1, ' Typescript': 1, ' ReactJS': 1, ' websocket': 1, ' JavaScript': 1, ' ASP.NET': 1, ' SignalR': 1, ' MVC': 1}

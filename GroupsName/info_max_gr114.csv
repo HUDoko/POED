@@ -1,0 +1,2 @@
+﻿;max_salarys;minCountDays;maxCountDays;avgCountDays;experience;employment;schedule;skills
+0;{90000.0: 1};0.0;27.0;1.504;1    1;Полная занятость    1;Полный день    1;{'PostgreSQL': 1, ' Python': 1, ' Django': 1, ' Flask': 1, ' DevOps': 1, ' Kubernetes': 1, ' GitLab CI': 1, ' Celery': 1, ' Redis': 1, ' RabbitMQ': 1, ' ООП': 1}

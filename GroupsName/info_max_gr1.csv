@@ -1,0 +1,2 @@
+﻿;max_salarys;minCountDays;maxCountDays;avgCountDays;experience;employment;schedule;skills
+0;{400000.0: 1};0.0;27.0;1.504;3    1;Полная занятость    1;Гибкий график    1;{'С++11': 1, ' SPIR-V': 1, ' OpenGL': 1, ' Excellent C/C++ programming skills': 1, ' GLSL': 1, ' SSAO': 1, ' BRDF': 1, ' SSR': 1, ' TAA': 1, ' PBR': 1, ' DIrectX12': 1, ' Vulkan': 1}

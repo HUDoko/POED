@@ -1,0 +1,2 @@
+﻿;max_salarys;minCountDays;maxCountDays;avgCountDays;experience;employment;schedule;skills
+0;{nan: 1};0.0;27.0;1.504;3    1;Полная занятость    1;Удаленная работа    1;{'PostgreSQL': 1, ' Git': 1, ' MySQL': 1, ' JavaScript': 1, ' PHP': 1, ' react': 1, ' Sass': 1, ' ES9': 1, ' Docker': 1, ' Front-end': 1, ' Back-end': 1, ' Teamleading': 1, ' ReactJS': 1, ' Symfony': 1}

@@ -1,0 +1,2 @@
+﻿;max_salarys;minCountDays;maxCountDays;avgCountDays;experience;employment;schedule;skills
+0;{200000.0: 2};0.0;27.0;1.504;3    2;Полная занятость    2;"Гибкий график    1;Полный день      1";{'JavaScript': 2, ' Git': 2, ' ASP.NET': 2, ' MS SQL': 2, ' C#': 2, ' SQL': 2, ' MVC': 2, ' RabbitMQ': 1, ' PostgreSQL': 2, ' Высоконагруженные системы': 2, ' Микросервисы': 2, ' KAFKA': 2, ' Python': 2, ' NET Core': 1, ' Vue.js': 1}

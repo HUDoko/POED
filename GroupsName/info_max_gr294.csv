@@ -1,0 +1,2 @@
+﻿;max_salarys;minCountDays;maxCountDays;avgCountDays;experience;employment;schedule;skills
+0;{nan: 1};0.0;27.0;1.504;3    1;Полная занятость    1;Полный день    1;{'PHP': 1, ' PHP5': 1, ' PHP7': 1, ' MySQL5.6': 1, ' AngularJS': 1, ' jQuery': 1, ' Symfony': 1, ' symfony2': 1, ' Symfony3': 1, ' Yii': 1, ' Laravel': 1, ' MongoDB': 1, ' Redis': 1, ' Percona': 1, ' Docker': 1, ' Веб-программирование': 1, ' Программист': 1, ' ООП': 1, ' Git': 1, ' Nginx': 1}

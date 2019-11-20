@@ -1,0 +1,2 @@
+﻿;min_salarys;minCountDays;maxCountDays;avgCountDays;experience;employment;schedule;skills
+0;{200000.0: 1};0.0;27.0;1.504;3    1;Полная занятость    1;Гибкий график    1;{'Ruby': 1, ' Ruby On Rails': 1, ' hanami': 1, ' sequel': 1, ' dry-rb': 1, ' PostgreSQL': 1, ' Redis': 1, ' Elasticsearch': 1}

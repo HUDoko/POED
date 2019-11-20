@@ -1,0 +1,2 @@
+﻿;max_salarys;minCountDays;maxCountDays;avgCountDays;experience;employment;schedule;skills
+0;{90000.0: 1};0.0;27.0;1.504;1    1;Частичная занятость    1;Удаленная работа    1;{'laravel': 1, ' MySQL': 1, ' JavaScript': 1, ' PHP': 1, ' jQuery': 1, ' HTML': 1, ' Bootstrap': 1, ' SQL': 1}

@@ -1,0 +1,2 @@
+﻿;min_salarys;minCountDays;maxCountDays;avgCountDays;experience;employment;schedule;skills
+0;{nan: 1};0.0;27.0;1.504;3    1;Полная занятость    1;Полный день    1;{'PostgreSQL': 1, ' Расстановка приоритетов': 1, ' Java': 1, ' PHP': 1, ' Redis': 1, ' Docker': 1, ' Golang': 1, ' Kotlin': 1, ' C/C++': 1, ' Linux': 1, ' Phalcon': 1, ' Git': 1, ' ElasticSearch': 1, ' NATS': 1, ' KAFKA': 1}

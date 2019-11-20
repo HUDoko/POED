@@ -1,0 +1,2 @@
+﻿;min_salarys;minCountDays;maxCountDays;avgCountDays;experience;employment;schedule;skills
+0;{4000.0: 1};0.0;27.0;1.504;3    1;Полная занятость    1;Полный день    1;{'C++': 1, ' GUI': 1, ' Графический интерфейс пользователя': 1, ' Qt': 1, ' Qt Widgets': 1, ' QML': 1, ' OpenGL': 1, ' Десктопные приложения': 1, ' Мобильные приложения': 1, ' Windows': 1, ' Linux': 1, ' Mac': 1, ' Android': 1, ' iOS': 1, ' С++ 14/17': 1}

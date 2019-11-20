@@ -1,0 +1,2 @@
+﻿;max_salarys;minCountDays;maxCountDays;avgCountDays;experience;employment;schedule;skills
+0;{150000.0: 1};0.0;27.0;1.504;0    1;Полная занятость    1;Полный день    1;{'MySQL': 1, ' ООП': 1, ' Python': 1, ' Git': 1, ' Redis': 1, ' Symfony': 1, ' Linux': 1, ' REST': 1}

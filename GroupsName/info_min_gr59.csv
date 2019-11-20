@@ -1,0 +1,2 @@
+﻿;min_salarys;minCountDays;maxCountDays;avgCountDays;experience;employment;schedule;skills
+0;{80000.0: 1, 50000.0: 1, nan: 1, nan: 1, nan: 1};0.0;27.0;1.504;"1    4;3    1";Полная занятость    5;Полный день    5;{'Веб-программирование': 1, ' HTML': 1, ' JavaScript': 2, ' CSS': 1, ' MySQL': 1, ' PHP': 1, ' SQL': 1, ' MS SQL': 1, ' Разработка ПО': 1, ' Linux': 1, '1С-Битрикс': 1, 'HTML5': 1, ' CSS3': 1, ' Английский язык': 1}

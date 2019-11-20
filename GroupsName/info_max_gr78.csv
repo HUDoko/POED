@@ -1,0 +1,2 @@
+﻿;max_salarys;minCountDays;maxCountDays;avgCountDays;experience;employment;schedule;skills
+0;{120000.0: 1};0.0;27.0;1.504;1    1;Полная занятость    1;Полный день    1;{'PHP': 1, ' MySQL': 1, ' PostgreSQL': 1, ' HTML5': 1, ' CSS3': 1, ' Backbone': 1, ' Английский язык': 1, ' Laravel, Yii': 1, ' VueJS': 1, ' AngularJS': 1, ' Linux': 1, ' jQuery': 1}

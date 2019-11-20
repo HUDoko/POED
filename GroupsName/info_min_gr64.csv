@@ -1,0 +1,2 @@
+﻿;min_salarys;minCountDays;maxCountDays;avgCountDays;experience;employment;schedule;skills
+0;{110000.0: 1, 70000.0: 1};0.0;27.0;1.504;1    2;Полная занятость    2;"Удаленная работа    1;Полный день         1";{'JavaScript': 2, ' Git': 2, ' VueJS': 1, ' jQuery': 1, ' CSS': 1, ' HTML': 1, ' Sass': 1, ' Jenkins': 1}

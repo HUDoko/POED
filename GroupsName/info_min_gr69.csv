@@ -1,0 +1,2 @@
+﻿;min_salarys;minCountDays;maxCountDays;avgCountDays;experience;employment;schedule;skills
+0;{30000.0: 1, 60000.0: 1, 40000.0: 1, 120000.0: 1};0.0;27.0;1.504;1    4;"Полная занятость       3;Частичная занятость    1";"Полный день         3;Удаленная работа    1";{'Java': 2, ' Spring Framework': 1, ' PostgreSQL': 1, ' Hibernate': 1, ' Mockito': 1, ' JUnit': 1, ' Docker': 1, ' Kubernetes': 1, ' Linux': 1, ' MS SQL Server': 1, ' SQL': 2, ' Eclipse': 1, 'JavaScript': 1, ' Java': 1, ' Java SE': 1, ' СУБД': 1}
